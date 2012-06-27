@@ -1,7 +1,8 @@
-Smoove - A multi-user RSS reader built with PHP/MYSQL and the Zend framework.
+Smoove - A feed reader that lets users share with their friends. Written in PHP/MYSQL
 
+Smoove currently uses the Zend Framework for parsing feeds along with a few other things.
 
-I'm going to be adding in code a piece at a time. Feel free to use any of the code,
+I'm going to be adding to this a piece at a time. Feel free to use any of the code,
 but there's a pretty good chance it's not going to work without the rest of the codebase.
 
 -Sam
